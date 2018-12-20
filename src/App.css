@@ -1,0 +1,28 @@
+.App {
+  text-align: left;
+  margin: 0;
+
+
+}
+
+
+.MyForm {
+  margin-top: 5%;
+  margin: 1%;
+  align-content: center;
+}
+
+.NavBarStyle {
+  background-color: #FF5722;
+  color: white;
+}
+
+.NavBarBrandStyle {
+  color: white;
+}
+
+.DisplayFont {
+  font-weight: bold;
+  font-size: 40px;
+  color: #6AD1F3;
+}
